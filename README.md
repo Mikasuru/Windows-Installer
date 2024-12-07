@@ -1,2 +1,1 @@
-# Windows-Installer
-(Program): Installer for windows
+# v1.0.0
